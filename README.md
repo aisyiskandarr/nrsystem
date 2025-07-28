@@ -1,4 +1,5 @@
-![Logo](https://github.com/aisyiskandarr/nrsystem/blob/2.x/webroot/img/ss/banner.jpg)
+![Logo](https://raw.githubusercontent.com/aisyiskandarr/nrsystem/main/webroot/img/ss/banner.jpg)
+
 
 NRHub is an integrated systems develop using 
 
@@ -50,11 +51,9 @@ NRHub is an integrated systems develop using
 
 
 ## Screenshots
-
+![App Screenshot](https://raw.githubusercontent.com/aisyiskandarr/nrsystem/main/webroot/img/ss/login.png)
 ![App Screenshot](https://raw.githubusercontent.com/aisyiskandarr/nrsystem/main/webroot/img/ss/dashboard.png)
 
-
-![App Screenshot](https://github.com/aisyiskandarr/nrsystem/blob/2.x/webroot/img/ss/dashboard.png)
 
 ## Roadmap
 
