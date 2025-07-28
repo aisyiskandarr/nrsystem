@@ -1,10 +1,10 @@
-![Logo](https://github.com/recrud/blob/2.x/webroot/img/ss/banner.jpg)
+![Logo](https://github.com/aisyiskandarr/nrsystem/blob/2.x/webroot/img/ss/banner.jpg)
 
 NRHub is an integrated systems develop using 
 
 ## 🚀 Authors
 
--   
+-   [@Aisy Iskandar](https://github.com/aisyiskandarr)
 
 ## License
 
@@ -51,9 +51,9 @@ NRHub is an integrated systems develop using
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Asyraf-wa/recrud/blob/2.x/webroot/img/ss/ReCRUD_Dashboard.png)
+![App Screenshot](https://github.com/aisyiskandarr/nrsystem/blob/2.x/webroot/img/ss/login.png)
 
-![App Screenshot](https://github.com/Asyraf-wa/recrud/blob/2.x/webroot/img/ss/ReCRUD_Setting.png)
+![App Screenshot](https://github.com/aisyiskandarr/nrsystem/blob/2.x/webroot/img/ss/dashboard.png)
 
 ## Roadmap
 
