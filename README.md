@@ -1,7 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/aisyiskandarr/nrsystem/main/webroot/img/ss/banner.jpg)
 
 
-NRHub is an integrated systems develop using 
+NRHub is an integrated system developed using PHP and MySQL to manage UiTM Non-Resident (NR) students. It supports student registration, verified housing ads, and student houses reservations generating rental agreement upon approval, making housing management more efficient and transparent.
 
 ## 🚀 Authors
 
