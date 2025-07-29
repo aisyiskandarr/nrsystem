@@ -8,6 +8,7 @@ NRHub is an integrated system developed using PHP and MySQL to manage UiTM Non-R
 -   [@Aisy Iskandar](https://github.com/aisyiskandarr)
 -   [@Fatin Nurulainnie](https://github.com/faaaaatynnn)
 -   [@Nur Najwa Zulaikha](https://github.com/nurnajwazulaikha)
+-   [@Nurul Ayu Hanani](https://github.com/Nryhni03)
 
 ## License
 
